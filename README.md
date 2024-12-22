@@ -58,4 +58,5 @@ The randomness module generates random on/off signals. Here's how to build it:
 ### How It Works
 The foil moves with small vibrations, intermittently completing the circuit and generating random on/off signals for the **Randomness Pin**.
 
+![board](example.png)
 
