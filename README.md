@@ -30,5 +30,32 @@ The ProtoBoard is designed to be easy to assemble using basic components:
    - Attach connections for the **DC Pins** to output direct power.
 3. **Test the Board**: Once assembled, connect a power source and test each pin to ensure proper functionality.
 
-# Randomness module
+# Randomness Module Assembly Guide
+
+The randomness module generates random on/off signals. Here's how to build it:
+
+## Materials Needed
+- Two short wires
+- Soldering iron
+- Electrical tape or heat shrink tubing
+- Aluminum foil
+
+## Steps
+1. **Prepare the Wires**:
+   - Cut and strip two short pieces of wire.
+
+2. **Create the Randomness Mechanism**:
+   - Crumple a small piece of aluminum foil into a loose ball.
+   - Solder one wire to each side of the foil.
+
+3. **Install in the Board**:
+   - Place the foil inside the board where it can move slightly.
+   - Connect one wire to the **+ Battery Pin** and the other to the **Randomness Pin** on the ProtoBoard.
+
+4. **Test the Module**:
+   - Power the board and observe random pulses at the **Randomness Pin** as the foil shifts due to vibrations.
+
+## How It Works
+The foil moves with small vibrations, intermittently completing the circuit and generating random on/off signals for the **Randomness Pin**.
+
 
