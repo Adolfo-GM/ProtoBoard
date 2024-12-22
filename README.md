@@ -16,7 +16,7 @@ The ProtoBoard includes a total of **9 pins**:
 4. **Ground (GND) Pin**: Provides a ground connection.
 5. **Button Output Pin**: Provides power only when the onboard button is pressed.
 6. **Resistor Pin**: Outputs a lower voltage, ideal for components requiring reduced power.
-7. **DC Pins (x3)**: Directly output power from the battery.
+7. **DC Pins (x4)**: Directly output power from the battery.
 
 ## Assembly
 The ProtoBoard is designed to be easy to assemble using basic components:
