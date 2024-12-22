@@ -62,3 +62,5 @@ The foil moves with small vibrations, intermittently completing the circuit and 
 
 ![board](example.png)
 
+The protoboard and it's circuit can be assembled in multiple different ways.
+
