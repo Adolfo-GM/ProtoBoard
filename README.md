@@ -3,7 +3,7 @@
 The ProtoBoard is an open-source I/O control board designed for easy assembly from common household items. It features random signal generation (RAND), an LED status indicator (the LED resides inside the board enclosure and can be secured with tape. It connects directly to the power via a resistor), two input wires for power (+/-), and additional pins for versatile usage. These include an RΩ pin (outputs positive power with resistance, based on any resistor you have), a V+ pin (provides direct positive power), and a GND connection (-). The ProtoBoard also incorporates a 4x5 breadboard array for prototyping, allowing jumper wire connections without internal pre-wiring. 
 
 ## Features
-- **Random Signal Generation**: A RAND pin outputs a random on/off signal.
+- **Random Signal Generation**: A RAND pin outputs a random on/off analog signal.
 - **LED Status Indicator**: Onboard LED provides visual feedback for power status.
 - **Compact Square Design**: Ideal for simple and quick prototyping.
 
